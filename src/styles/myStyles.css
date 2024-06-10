@@ -1,0 +1,19 @@
+/* Diagnostic Styling */
+* {
+    outline: 1px dotted gray;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.25rem;\
+
+    background: red;
+}
+  
+main {
+
+    width: 800px;
+    max-width: 90%;
+    margin: auto;
+
+}
